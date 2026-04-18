@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+sounddevice
+pydub
+numpy
+scipy
+soundfile
+flask
